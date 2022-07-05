@@ -1,4 +1,9 @@
 ### Hi there 👋
+Hello I'm Luis, but you can call me Lucho. Come to know about me.😎
+<br>
+I'm a junior Full-Stack web developer 💻 and biological sciences bachelor 👨‍🔬, with a great interest in bioinformatic, data and computer sciences. I always have the need to learn and apply my knowledge to solve or simplify everyday problems 🧐.
+<br>
+In my free time I play guitar and sing 🎸🎙️
 
 ---
 
