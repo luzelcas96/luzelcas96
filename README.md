@@ -31,3 +31,10 @@ In my free time I play guitar and sing 🎸🎙️
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/luzelcas96)
 
 ---
+### 📫 Get In Touch
+<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/](https://www.linkedin.com/in/luis-zelada/)-->
+<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+ 
