@@ -42,3 +42,7 @@ In my free time I play guitar and sing 🎸🎙️
 ---
 ### You can find in me in the web 🌍
 <img src="https://img.shields.io/badge/luiszeladac.96@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="luiszeladac.96@gmail.com">   <a  href="https://www.instagram.com/luiszelcas/"><img src="https://img.shields.io/badge/@luiszelcas_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/luis-zelada/"><img src="https://img.shields.io/badge/luis zelada-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+* My chanel:
+
+ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ---> https://www.youtube.com/channel/UCoBk_i7yamLOmv9RTiHp1XQ
