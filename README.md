@@ -24,6 +24,7 @@ In my free time I play guitar and sing 🎸🎙️
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luzelcas96&show_icons=true&hide_border=true)
 
