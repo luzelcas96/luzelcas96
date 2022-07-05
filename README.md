@@ -5,6 +5,9 @@ I'm a junior Full-Stack web developer 💻 and biological sciences bachelor 👨
 <br>
 In my free time I play guitar and sing 🎸🎙️
 
+<br />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 ---
 
 
